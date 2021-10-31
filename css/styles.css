@@ -1,0 +1,112 @@
+body {
+    font-family: "Monserrat";
+    
+    
+}
+
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3.5rem;
+    line-height: 1.5;
+}
+h3 {
+    font-family: "Times New Roman", Times, serif;
+}
+.container-fluid{
+    padding: 2% 5%;
+}
+
+
+.navbar-brand {
+    font-family: 'Ubuntu', sans-serif;
+    font-size:2rem;
+    font-weight: bold;
+    
+}
+
+.nav-item{
+    padding: 0 5px;
+}
+
+.nav-link{
+    font-size:0.9rem;
+}
+
+.carousel{
+    width: 500px;
+}
+.carousel-under-pic {
+    text-align: center;
+    margin-top: 25px;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.user {
+    border: 3px solid #f1f1f1;
+}
+
+input[type=text], input[type=password] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+button {
+    background-color: #04AA6D;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+}
+
+    button:hover {
+        opacity: 0.8;
+    }
+
+.cancelbtn {
+    width: auto;
+    padding: 10px 18px;
+    background-color: #f44336;
+}
+
+.imgcontainer {
+    text-align: center;
+    margin: 24px 0 12px 0;
+}
+
+img.avatar {
+    width: 40%;
+    border-radius: 50%;
+}
+
+.container {
+    padding: 16px;
+}
+
+span.psw {
+    float: right;
+    padding-top: 16px;
+}
+
+
+
+.nslider {
+    width: 40rpm;
+    height: 420px;
+    background-color:lavenderblush;
+    text-align: center;
+}
+
+
+
+
+
